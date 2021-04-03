@@ -1,5 +1,5 @@
 # Sorting Algorithms Visualizer
-## Sorting algorithms visualizer implemented using SFML which visuailzes:
+Sorting algorithms visualizer implemented using SFML which visuailzes:  
 Bubble Sort,
 Insertion Sort,
 Selection Sort,
